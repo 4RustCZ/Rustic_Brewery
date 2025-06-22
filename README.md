@@ -89,20 +89,20 @@ A custom Paper plugin for Minecraft that introduces brewing, alcohol discovery, 
 
 ## 📁 Suggested Folder Structure
 drunken-brewing/
-├── src/
-│ └── main/
-│ ├── BrewingManager.java
-│ ├── AlcoholItem.java
-│ ├── RecipeBookGUI.java
-│ ├── DrunkennessManager.java
-│ ├── UnlockManager.java
-│ └── listeners/
-│ ├── BrewingListener.java
-│ ├── ChatListener.java
-│ └── ScrollUnlockListener.java
-├── resources/
-│ ├── plugin.yml
-│ └── config.yml
+- ├── src/
+- │ └── main/
+- │ ├── BrewingManager.java
+- │ ├── AlcoholItem.java
+- │ ├── RecipeBookGUI.java
+- │ ├── DrunkennessManager.java
+- │ ├── UnlockManager.java
+- │ └── listeners/
+- │ ├── BrewingListener.java
+- │ ├── ChatListener.java
+- │ └── ScrollUnlockListener.java
+- ├── resources/
+- │ ├── plugin.yml
+- │ └── config.yml
 
 
 ---
@@ -138,6 +138,6 @@ drunken-brewing/
 This plugin is under development and not yet licensed. Contributions, ideas, or feedback are welcome!
 
 ---
-Author : 4Rust_CZ
-Made with the help of Chatgpt
+- Author : 4Rust_CZ
+- Made with the help of Chatgpt
 
